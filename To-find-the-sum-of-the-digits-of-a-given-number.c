@@ -1,3 +1,8 @@
+/* Question - Take input from the user to get any number of any digits.
+Find the sum of the digits of the given number */
+
+// Solution --->
+
 #include <stdio.h>
 
 int main() {
