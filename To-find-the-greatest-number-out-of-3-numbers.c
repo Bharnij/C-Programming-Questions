@@ -1,3 +1,8 @@
+/* Question - Take user input to enter any 3 random numbers. 
+Find the greatest number out those 3 numbers */
+
+// Solution below ----->
+
 #include <stdio.h>
 
 int main() {
