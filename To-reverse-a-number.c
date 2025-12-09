@@ -1,3 +1,9 @@
+/* Take input from the user to get any number.
+Write a C programme to reverse the given number.*/
+
+// Solution --->
+
+
 #include <stdio.h>
 
 int main() {
