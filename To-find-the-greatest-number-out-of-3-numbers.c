@@ -3,6 +3,9 @@ Find the greatest number out those 3 numbers */
 
 // Solution below ----->
 
+// This is also a 2024 PYQ btw
+
+
 #include <stdio.h>
 
 int main() {
