@@ -39,12 +39,12 @@ int main(){
                 div = a / b;
                 printf("The division of %d by %d gives %d\n", a, b, div);
             } else {
-                printf("Error: Division by zero is not allowed.\n");
+                printf("Please check again. A number can't be divided by 0\n");
             }
             break;
 
         default:
-            printf("Invalid operator selected.\n");
+            printf("Please recheck and select the valid operator.\n");
 
     }
 
