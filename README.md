@@ -17,11 +17,9 @@ This repository includes questions from major C topics such as:
 - ✅ Basics (Input/Output, operators, conditionals)
 - ✅ Loops and patterns  
 - ✅ Functions and recursion  
-- ✅ Arrays (1D / 2D)
+- ✅ Arrays (1D)
 - ✅ Strings  
-- ✅ Pointers  
-- ✅ Structures & unions  
-- ✅ File handling  
+- ✅ Structures & unions 
 - ✅ Number-based problems  
 - ✅ Sorting & searching  
 - ✅ Miscellaneous logical programs  
