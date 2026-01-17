@@ -3,8 +3,7 @@
 A collection of **C Programming practice questions** with solutions, based on the syllabus of "Programming for Problem solving with C" - ES201 under Assam Science and Technological University. 
 
 This repository is helpful for:
-- 📌 College exams & lab practice  
-- 🧪 Viva preparation  
+- 📌 Semester exams & lab practice  
 - 🧠 Logic building  
 - 🏗️ Strengthening core C concepts  
 
