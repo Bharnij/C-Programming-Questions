@@ -1,0 +1,28 @@
+# C Programming Questions 🧠💻
+
+A curated collection of **C Programming practice questions** with solutions, created to strengthen C fundamentals and improve problem-solving skills.
+
+This repository is helpful for:
+- 📌 College exams & lab practice  
+- 🧪 Viva preparation  
+- 🧠 Logic building  
+- 🏗️ Strengthening core C concepts  
+
+---
+
+## 📂 Contents
+
+This repository includes questions from major C topics such as:
+
+- ✅ Basics (Input/Output, operators, conditionals)
+- ✅ Loops and patterns  
+- ✅ Functions and recursion  
+- ✅ Arrays (1D / 2D)
+- ✅ Strings  
+- ✅ Pointers  
+- ✅ Structures & unions  
+- ✅ File handling  
+- ✅ Number-based problems  
+- ✅ Sorting & searching  
+- ✅ Miscellaneous logical programs  
+
