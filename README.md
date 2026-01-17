@@ -1,6 +1,6 @@
 # C Programming Questions 🧠💻
 
-A curated collection of **C Programming practice questions** with solutions, created to strengthen C fundamentals and improve problem-solving skills.
+A collection of **C Programming practice questions** with solutions, based on the syllabus of "Programming for Problem solving with C" - ES201 under Assam Science and Technological University. 
 
 This repository is helpful for:
 - 📌 College exams & lab practice  
